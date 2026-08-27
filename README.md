@@ -1,4 +1,4 @@
-# sila-ihsan-association
+# sila ihsan association
 Modern, multi-language, and animation-driven corporate website for Sıla İhsan Association built with React, Vite, and GSAP.
 <div align="center">
   <h1>🌍 Sıla İhsan Derneği - Corporate Web Platform</h1>
